@@ -40,7 +40,7 @@ npm run dev
 
 A aplicação pode ser facilmente deployada no **Vercel**.
 
-🔗 Ver site: *adicionar link aqui*
+🔗 Ver site: [*link aqui*](https://ws-frontend-fabrica25-2-o182.vercel.app/)
 
 ---
 
