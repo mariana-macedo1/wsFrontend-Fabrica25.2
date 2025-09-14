@@ -12,7 +12,7 @@ Uma aplicação front-end para explorar e visualizar detalhes de Pokémons utili
 * **Next.js** – Framework React moderno para aplicações web.
 * **TypeScript** – Tipagem estática para maior segurança e escalabilidade.
 * **Tailwind CSS** – Framework utilitário para estilização rápida e responsiva.
-* **Vercel** – Plataforma de deploy contínuo (opcional para produção).
+* **Vercel** – Plataforma de deploy contínuo.
 
 ---
 
@@ -22,7 +22,6 @@ Clone o repositório e instale as dependências:
 
 ```bash
 git clone https://github.com/mariana-macedo1/wsFrontend-Fabrica25.2.git
-cd pokewiki
 npm install
 ```
 
